@@ -9,7 +9,7 @@ body {
 }
 
 p {
-  margin: 1%;
+  margin: 1.5%;
 }
 
 .card {
@@ -35,7 +35,7 @@ p {
 .resource,
 .paragraph {
   border: 3px solid black;
-  border-radius: 25px;
+  border-radius: 22px;
 
   margin: 1%;
 }
@@ -43,7 +43,7 @@ p {
 .article {
   background-color: darkgrey;
   border-bottom: 1px solid black;
-  border-radius: 22px;
+  border-radius: 19px;
 
   padding: 1%;
   margin: 0;
@@ -53,7 +53,7 @@ p {
 .paragraph h3 {
   background-color: darkgrey;
   border-bottom: 1px solid black;
-  border-radius: 22px;
+  border-radius: 19px;
 
   margin: 0;
   padding: 10px;
